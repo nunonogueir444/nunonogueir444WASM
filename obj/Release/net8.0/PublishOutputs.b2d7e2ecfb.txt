@@ -1,0 +1,4 @@
+C:\Users\nnogu\OneDrive\GitHub\nunonogueir444WASM\obj\Release\net8.0\browser-wasm\PubTmp\Out\Publish\web.config
+C:\Users\nnogu\OneDrive\GitHub\nunonogueir444WASM\obj\Release\net8.0\browser-wasm\PubTmp\Out\Publish\wwwroot\sample-data\weather.json
+C:\Users\nnogu\OneDrive\GitHub\nunonogueir444WASM\obj\Release\net8.0\browser-wasm\PubTmp\Out\Publish\wwwroot\_framework\blazor.boot.json
+C:\Users\nnogu\OneDrive\GitHub\nunonogueir444WASM\obj\Release\net8.0\browser-wasm\PubTmp\Out\web.config
