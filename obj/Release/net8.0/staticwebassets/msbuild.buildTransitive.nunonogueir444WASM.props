@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\nunonogueir444WASM.props" />
-</Project>
