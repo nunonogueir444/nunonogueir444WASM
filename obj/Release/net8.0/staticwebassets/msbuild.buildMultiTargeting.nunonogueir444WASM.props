@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\nunonogueir444WASM.props" />
+</Project>
