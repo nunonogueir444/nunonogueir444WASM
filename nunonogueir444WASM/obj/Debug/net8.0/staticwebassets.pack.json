@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\nnogu\\OneDrive\\GitHub\\nunonogueir444WASM\\nunonogueir444WASM\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\nunonogueir444WASM.bundle.scp.css",
+      "PackagePath": "staticwebassets\\nunonogueir444WASM.uf6exq04l1.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\nnogu\\OneDrive\\GitHub\\nunonogueir444WASM\\nunonogueir444WASM\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\nnogu\\OneDrive\\GitHub\\nunonogueir444WASM\\nunonogueir444WASM\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nnogu\\OneDrive\\GitHub\\nunonogueir444WASM\\nunonogueir444WASM\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nnogu\\OneDrive\\GitHub\\nunonogueir444WASM\\nunonogueir444WASM\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.nunonogueir444WASM.props",
+      "PackagePath": "build\\nunonogueir444WASM.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.nunonogueir444WASM.props",
+      "PackagePath": "buildMultiTargeting\\nunonogueir444WASM.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.nunonogueir444WASM.props",
+      "PackagePath": "buildTransitive\\nunonogueir444WASM.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.nunonogueir444WASM.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.nunonogueir444WASM.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
